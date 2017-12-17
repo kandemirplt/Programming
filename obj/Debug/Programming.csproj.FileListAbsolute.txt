@@ -1,0 +1,5 @@
+C:\Users\kpolat\kp\Programming\Programming\bin\Debug\Programming.dll
+C:\Users\kpolat\kp\Programming\Programming\bin\Debug\Programming.pdb
+C:\Users\kpolat\kp\Programming\Programming\obj\Debug\Programming.csproj.CoreCompileInputs.cache
+C:\Users\kpolat\kp\Programming\Programming\obj\Debug\Programming.dll
+C:\Users\kpolat\kp\Programming\Programming\obj\Debug\Programming.pdb
